@@ -1,0 +1,14 @@
+D:\MyNFBook\DAL\bin\Release\DAL.dll
+D:\MyNFBook\DAL\bin\Release\DAL.pdb
+D:\MyNFBook\DAL\bin\Release\Model.dll
+D:\MyNFBook\DAL\bin\Release\Model.pdb
+D:\MyNFBook\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\MyNFBook\DAL\obj\Release\DAL.dll
+D:\MyNFBook\DAL\obj\Release\DAL.pdb
+E:\MyNFBook\DAL\bin\Release\DAL.dll
+E:\MyNFBook\DAL\bin\Release\DAL.pdb
+E:\MyNFBook\DAL\bin\Release\Model.dll
+E:\MyNFBook\DAL\bin\Release\Model.pdb
+E:\MyNFBook\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\MyNFBook\DAL\obj\Release\DAL.dll
+E:\MyNFBook\DAL\obj\Release\DAL.pdb

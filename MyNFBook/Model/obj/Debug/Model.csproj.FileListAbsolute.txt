@@ -1,0 +1,15 @@
+F:\ASP.NET 高级编程\MyNFBook\Model\bin\Debug\Model.dll
+F:\ASP.NET 高级编程\MyNFBook\Model\bin\Debug\Model.pdb
+F:\ASP.NET 高级编程\MyNFBook\Model\obj\Debug\Model.dll
+F:\ASP.NET 高级编程\MyNFBook\Model\obj\Debug\Model.pdb
+F:\ASP.NET 高级编程\MyNFBook\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyNFBook\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\MyNFBook\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\MyNFBook\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyNFBook\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\MyNFBook\Model\obj\Debug\Model.pdb
+D:\MyNFBook\Model\bin\Debug\Model.dll
+D:\MyNFBook\Model\bin\Debug\Model.pdb
+D:\MyNFBook\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\MyNFBook\Model\obj\Debug\Model.dll
+D:\MyNFBook\Model\obj\Debug\Model.pdb

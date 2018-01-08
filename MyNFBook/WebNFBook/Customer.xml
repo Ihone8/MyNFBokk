@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <siteMapNode url="BasicInfo.aspx" title="用户管理"  description="">
+    <siteMapNode url="BasicInfo.aspx?#" title="基本信息"  description="" />
+    <siteMapNode url="ContactInfo.aspx" title="联系方式"  description="" />
+    <siteMapNode url="SafetyInfo.aspx" title="密码保护"></siteMapNode>
+    <siteMapNode url="ChangePassword.aspx" title="修改密码"></siteMapNode>
+  </siteMapNode>

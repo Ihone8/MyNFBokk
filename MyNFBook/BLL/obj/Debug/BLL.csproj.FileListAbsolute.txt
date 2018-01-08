@@ -1,0 +1,27 @@
+F:\ASP.NET 高级编程\MyNFBook\BLL\bin\Debug\BLL.dll
+F:\ASP.NET 高级编程\MyNFBook\BLL\bin\Debug\BLL.pdb
+F:\ASP.NET 高级编程\MyNFBook\BLL\bin\Debug\DAL.dll
+F:\ASP.NET 高级编程\MyNFBook\BLL\bin\Debug\Model.dll
+F:\ASP.NET 高级编程\MyNFBook\BLL\bin\Debug\DAL.pdb
+F:\ASP.NET 高级编程\MyNFBook\BLL\bin\Debug\Model.pdb
+F:\ASP.NET 高级编程\MyNFBook\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\ASP.NET 高级编程\MyNFBook\BLL\obj\Debug\BLL.dll
+F:\ASP.NET 高级编程\MyNFBook\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\MyNFBook\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\MyNFBook\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\MyNFBook\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\MyNFBook\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\MyNFBook\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\MyNFBook\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\MyNFBook\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyNFBook\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\MyNFBook\BLL\obj\Debug\BLL.pdb
+D:\MyNFBook\BLL\bin\Debug\BLL.dll
+D:\MyNFBook\BLL\bin\Debug\BLL.pdb
+D:\MyNFBook\BLL\bin\Debug\DAL.dll
+D:\MyNFBook\BLL\bin\Debug\Model.dll
+D:\MyNFBook\BLL\bin\Debug\DAL.pdb
+D:\MyNFBook\BLL\bin\Debug\Model.pdb
+D:\MyNFBook\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyNFBook\BLL\obj\Debug\BLL.dll
+D:\MyNFBook\BLL\obj\Debug\BLL.pdb

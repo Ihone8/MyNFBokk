@@ -1,0 +1,56 @@
+F:\ASP.NET 高级编程\MyNFBook\WebNFBook\bin\WebNFBook.dll.config
+F:\ASP.NET 高级编程\MyNFBook\WebNFBook\bin\WebNFBook.dll
+F:\ASP.NET 高级编程\MyNFBook\WebNFBook\bin\WebNFBook.pdb
+F:\ASP.NET 高级编程\MyNFBook\WebNFBook\obj\Debug\WebNFBook.dll
+F:\ASP.NET 高级编程\MyNFBook\WebNFBook\obj\Debug\WebNFBook.pdb
+F:\ASP.NET 高级编程\MyNFBook\WebNFBook\obj\Debug\WebNFBook.csprojResolveAssemblyReference.cache
+F:\ASP.NET 高级编程\MyNFBook\WebNFBook\bin\BLL.dll
+F:\ASP.NET 高级编程\MyNFBook\WebNFBook\bin\DAL.dll
+F:\ASP.NET 高级编程\MyNFBook\WebNFBook\bin\Model.dll
+F:\ASP.NET 高级编程\MyNFBook\WebNFBook\bin\BLL.pdb
+F:\ASP.NET 高级编程\MyNFBook\WebNFBook\bin\DAL.pdb
+F:\ASP.NET 高级编程\MyNFBook\WebNFBook\bin\Model.pdb
+F:\ASP.NET 高级编程\MyNFBook\WebNFBook\bin\Rule.dll
+F:\ASP.NET 高级编程\MyNFBook\WebNFBook\bin\Rule.pdb
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\WebNFBook\bin\WebNFBook.dll.config
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\WebNFBook\bin\WebNFBook.dll
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\WebNFBook\bin\WebNFBook.pdb
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\WebNFBook\bin\BLL.dll
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\WebNFBook\bin\DAL.dll
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\WebNFBook\bin\Model.dll
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\WebNFBook\bin\Rule.dll
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\WebNFBook\bin\BLL.pdb
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\WebNFBook\bin\DAL.pdb
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\WebNFBook\bin\Model.pdb
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\WebNFBook\bin\Rule.pdb
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\WebNFBook\obj\Debug\WebNFBook.csprojResolveAssemblyReference.cache
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\WebNFBook\obj\Debug\WebNFBook.dll
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\WebNFBook\obj\Debug\WebNFBook.pdb
+C:\Users\Administrator\Desktop\MyNFBook\WebNFBook\bin\WebNFBook.dll.config
+C:\Users\Administrator\Desktop\MyNFBook\WebNFBook\bin\WebNFBook.dll
+C:\Users\Administrator\Desktop\MyNFBook\WebNFBook\bin\WebNFBook.pdb
+C:\Users\Administrator\Desktop\MyNFBook\WebNFBook\bin\BLL.dll
+C:\Users\Administrator\Desktop\MyNFBook\WebNFBook\bin\DAL.dll
+C:\Users\Administrator\Desktop\MyNFBook\WebNFBook\bin\Model.dll
+C:\Users\Administrator\Desktop\MyNFBook\WebNFBook\bin\Rule.dll
+C:\Users\Administrator\Desktop\MyNFBook\WebNFBook\bin\BLL.pdb
+C:\Users\Administrator\Desktop\MyNFBook\WebNFBook\bin\DAL.pdb
+C:\Users\Administrator\Desktop\MyNFBook\WebNFBook\bin\Model.pdb
+C:\Users\Administrator\Desktop\MyNFBook\WebNFBook\bin\Rule.pdb
+C:\Users\Administrator\Desktop\MyNFBook\WebNFBook\obj\Debug\WebNFBook.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyNFBook\WebNFBook\obj\Debug\WebNFBook.dll
+C:\Users\Administrator\Desktop\MyNFBook\WebNFBook\obj\Debug\WebNFBook.pdb
+D:\MyNFBook\WebNFBook\bin\WebNFBook.dll.config
+D:\MyNFBook\WebNFBook\bin\WebNFBook.dll
+D:\MyNFBook\WebNFBook\bin\WebNFBook.pdb
+D:\MyNFBook\WebNFBook\bin\BLL.dll
+D:\MyNFBook\WebNFBook\bin\DAL.dll
+D:\MyNFBook\WebNFBook\bin\Model.dll
+D:\MyNFBook\WebNFBook\bin\Rule.dll
+D:\MyNFBook\WebNFBook\bin\BLL.pdb
+D:\MyNFBook\WebNFBook\bin\DAL.pdb
+D:\MyNFBook\WebNFBook\bin\Model.pdb
+D:\MyNFBook\WebNFBook\bin\Rule.pdb
+D:\MyNFBook\WebNFBook\obj\Debug\WebNFBook.csprojResolveAssemblyReference.cache
+D:\MyNFBook\WebNFBook\obj\Debug\WebNFBook.dll
+D:\MyNFBook\WebNFBook\obj\Debug\WebNFBook.pdb

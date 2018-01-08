@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <script src="jquery-3.2.1.min.js"></script>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+        /*
+              * 外面盒子样式---自己定义
+              */
+
+        .page_div {
+            margin-top: 30px;
+            margin-bottom: 20px;
+            font-size: 15px;
+            font-family: "microsoft yahei";
+            color: #666666;
+            margin-right: 10px;
+            padding-left: 400px;
+            box-sizing: border-box;
+        }
+            /*
+             * 页数按钮样式
+             */
+
+            .page_div a {
+                min-width: 30px;
+                height: 28px;
+                border-radius: 50%;
+                border: 1px solid #dce0e0 !important;
+                text-align: center;
+                margin: 0 4px;
+                cursor: pointer;
+                line-height: 28px;
+                color: #666666;
+                font-size: 13px;
+                display: inline-block;
+            }
+
+                .page_div a:hover {
+                    background-color: #0073A9;
+                    border-color: #0073A9;
+                    color: #FFFFFF;
+                }
+
+        #firstPage,
+        #lastPage {
+            width: 50px;
+            color: #0073A9;
+            border: 1px solid #0073A9 !important;
+        }
+
+            #firstPage:hover,
+            #lastPage:hover {
+                color: #fff;
+            }
+
+        #prePage,
+        #nextPage {
+            width: 70px;
+            color: #0073A9;
+            border: 1px solid rgb(0, 115, 169) !important;
+        }
+
+            #prePage:hover,
+            #nextPage:hover {
+                color: #fff;
+            }
+
+        .page_div .current {
+            background-color: #0073A9;
+            border-color: #0073A9;
+            color: #FFFFFF;
+        }
+
+        .totalPages {
+            margin: 0 10px;
+        }
+
+            .totalPages span,
+            .totalSize span {
+                color: #0073A9;
+                margin: 0 5px;
+            }
+
+        #BookName img {
+            width: 120px;
+            height: 180px;
+            margin: 5px 8px;
+            box-shadow: 0 0 5px;
+
+        }
+
+        #BookName {
+            width: 100%;
+            margin: auto;
+            min-height: 200px;
+        }
+
+        .box {
+            margin: 20px auto;
+            border: 1px solid;
+        }
+    </style>
+    <script src="paging.js"></script>
+</head>
+<body>
+    <div id="BookName">
+    </div>
+    <div class="box">
+        <div id="page" class="page_div"></div>
+    </div>
+    <script>
+
+        $(function () {
+            //每页显示的条数
+            var pagenum = 10;
+            $.getJSON("Books.ashx", { 'pageNum': pagenum, 'pageindex': 1 }, function (data) {
+                console.log(data);
+                $.each(data.books, function (i, obj) {
+                    $("#BookName").append("<a href='#'><img src='../Image/BookCovers/" + obj.ISBN + ".jpg'></a>");
+                });
+                //初始化分页
+                $("#page").paging({
+                    pageNo: 1,
+                    totalPage: data.pageCount,
+                    callback: function (num) {
+                        //点击每个页码刷新数据
+                        $.getJSON("Books.ashx", { 'pageNum': pagenum, 'pageindex': num }, function (data) {
+                            $("#BookName").html("");
+                            $.each(data.books, function (i, obj) {
+                                $("#BookName").append("<a href='#'><img src='../Image/BookCovers/" + obj.ISBN + ".jpg'></a>");
+                            })
+                        });
+                    }
+                });//
+            });
+
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <script src="jquery-3.2.1.min.js"></script>
+    <script src="artTemplate/artTemplate-master/dist/template-native.js"></script>
+    <link href="bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>    
+     <div id="NFbooks"></div>
+      
+    <script>
+        $(function () {         
+            $.getJSON("NFbooks.ashx", function (data) {
+                    //console.log(data);
+                    $.each(data, function (i, obj) {
+                        $("#NFbooks").append(obj.Title+"<br/>");
+                })               
+            })
+          
+        });
+        
+    </script>
+</body>
+</html>

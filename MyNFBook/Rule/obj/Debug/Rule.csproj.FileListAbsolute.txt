@@ -1,0 +1,36 @@
+F:\ASP.NET 高级编程\MyNFBook\Rule\bin\Debug\Rule.dll
+F:\ASP.NET 高级编程\MyNFBook\Rule\bin\Debug\Rule.pdb
+F:\ASP.NET 高级编程\MyNFBook\Rule\bin\Debug\DAL.dll
+F:\ASP.NET 高级编程\MyNFBook\Rule\bin\Debug\Model.dll
+F:\ASP.NET 高级编程\MyNFBook\Rule\bin\Debug\DAL.pdb
+F:\ASP.NET 高级编程\MyNFBook\Rule\bin\Debug\Model.pdb
+F:\ASP.NET 高级编程\MyNFBook\Rule\obj\Debug\Rule.csprojResolveAssemblyReference.cache
+F:\ASP.NET 高级编程\MyNFBook\Rule\obj\Debug\Rule.dll
+F:\ASP.NET 高级编程\MyNFBook\Rule\obj\Debug\Rule.pdb
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\Rule\bin\Debug\Rule.dll
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\Rule\bin\Debug\Rule.pdb
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\Rule\bin\Debug\DAL.dll
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\Rule\bin\Debug\Model.dll
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\Rule\bin\Debug\DAL.pdb
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\Rule\bin\Debug\Model.pdb
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\Rule\obj\Debug\Rule.csprojResolveAssemblyReference.cache
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\Rule\obj\Debug\Rule.dll
+E:\二学年\ASP.NET高级编程\第一章\MyNFBook\Rule\obj\Debug\Rule.pdb
+C:\Users\Administrator\Desktop\MyNFBook\Rule\bin\Debug\Rule.dll
+C:\Users\Administrator\Desktop\MyNFBook\Rule\bin\Debug\Rule.pdb
+C:\Users\Administrator\Desktop\MyNFBook\Rule\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\MyNFBook\Rule\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\MyNFBook\Rule\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\MyNFBook\Rule\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\MyNFBook\Rule\obj\Debug\Rule.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyNFBook\Rule\obj\Debug\Rule.dll
+C:\Users\Administrator\Desktop\MyNFBook\Rule\obj\Debug\Rule.pdb
+D:\MyNFBook\Rule\bin\Debug\Rule.dll
+D:\MyNFBook\Rule\bin\Debug\Rule.pdb
+D:\MyNFBook\Rule\bin\Debug\DAL.dll
+D:\MyNFBook\Rule\bin\Debug\Model.dll
+D:\MyNFBook\Rule\bin\Debug\DAL.pdb
+D:\MyNFBook\Rule\bin\Debug\Model.pdb
+D:\MyNFBook\Rule\obj\Debug\Rule.csprojResolveAssemblyReference.cache
+D:\MyNFBook\Rule\obj\Debug\Rule.dll
+D:\MyNFBook\Rule\obj\Debug\Rule.pdb

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="default.aspx" title="首页"  description="">
+    <siteMapNode url="Login.aspx" title="用户登录"  description="" />
+    <siteMapNode url="CustomRegist.aspx" title="用户注册"  description="" />
+    <siteMapNode url="FindPassword.aspx" title="找回密码"></siteMapNode>
+    <siteMapNode url="~/Custormer/BasicInfo.aspx?a=a" title="用户管理"  description="">
+      <siteMapNode url="~/Custormer/BasicInfo.aspx" title="基本信息"  description=""/>
+      <siteMapNode url="~/Custormer/ContactInfo.aspx" title="联系方式"  description=""/>
+      <siteMapNode url="~/Custormer/ChangePassword.aspx" title="修改密码"/>
+      <siteMapNode url="~/Custormer/SafetyInfo.aspx" title="密码保护" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

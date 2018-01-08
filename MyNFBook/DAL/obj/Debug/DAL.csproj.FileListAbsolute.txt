@@ -1,0 +1,21 @@
+F:\ASP.NET 高级编程\MyNFBook\DAL\bin\Debug\DAL.dll
+F:\ASP.NET 高级编程\MyNFBook\DAL\bin\Debug\DAL.pdb
+F:\ASP.NET 高级编程\MyNFBook\DAL\bin\Debug\Model.dll
+F:\ASP.NET 高级编程\MyNFBook\DAL\bin\Debug\Model.pdb
+F:\ASP.NET 高级编程\MyNFBook\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\ASP.NET 高级编程\MyNFBook\DAL\obj\Debug\DAL.dll
+F:\ASP.NET 高级编程\MyNFBook\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\MyNFBook\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\MyNFBook\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\MyNFBook\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\MyNFBook\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\MyNFBook\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyNFBook\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\MyNFBook\DAL\obj\Debug\DAL.pdb
+D:\MyNFBook\DAL\bin\Debug\DAL.dll
+D:\MyNFBook\DAL\bin\Debug\DAL.pdb
+D:\MyNFBook\DAL\bin\Debug\Model.dll
+D:\MyNFBook\DAL\bin\Debug\Model.pdb
+D:\MyNFBook\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyNFBook\DAL\obj\Debug\DAL.dll
+D:\MyNFBook\DAL\obj\Debug\DAL.pdb

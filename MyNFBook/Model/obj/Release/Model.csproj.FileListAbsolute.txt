@@ -1,0 +1,8 @@
+D:\MyNFBook\Model\bin\Release\Model.dll
+D:\MyNFBook\Model\bin\Release\Model.pdb
+D:\MyNFBook\Model\obj\Release\Model.dll
+D:\MyNFBook\Model\obj\Release\Model.pdb
+E:\MyNFBook\Model\bin\Release\Model.dll
+E:\MyNFBook\Model\bin\Release\Model.pdb
+E:\MyNFBook\Model\obj\Release\Model.dll
+E:\MyNFBook\Model\obj\Release\Model.pdb
